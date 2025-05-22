@@ -1,3 +1,1 @@
-# simulasi konnflik
-
-def konflik();
+# here be conflics

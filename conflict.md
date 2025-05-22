@@ -1,1 +1,1 @@
-# here be conflics
+# here be conflict of conflicts

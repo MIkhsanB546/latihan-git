@@ -1,0 +1,3 @@
+# simulasi konnflik
+
+def konflik();
